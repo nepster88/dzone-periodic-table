@@ -32,3 +32,5 @@ The symbol will have exactly two letters. Both element name and symbol will cont
 
 * Main class --> dzone-periodic-table/periodic-table/src/me/tejas/dzone/trigger/Executor.java
 * Service Class --> dzone-periodic-table/periodic-table/src/me/tejas/dzone/service/PeriodTableValidatorService.java
+* Junit test case --> dzone-periodic-table/periodic-table/test/me/tejas/dzone/service/test/PeriodicTableTest.java
+ Input the test data in dzone-periodic-table/periodic-table/test/periodic-table-input.properties and execute test class. 
