@@ -1,4 +1,16 @@
 
+
+# Solution Overview
+
+ Input the test data in dzone-periodic-table/periodic-table/test/periodic-table-input.properties and execute test class.
+ 
+ 
+* Main class --> dzone-periodic-table/periodic-table/src/me/tejas/dzone/trigger/Executor.java
+* Service Class --> dzone-periodic-table/periodic-table/src/me/tejas/dzone/service/PeriodTableValidatorService.java
+* Junit test case --> dzone-periodic-table/periodic-table/test/me/tejas/dzone/service/test/PeriodicTableTest.java
+ 
+
+
 # Dzone Java Challange 
 
 The inhabitants of the planet Splurth are building their own periodic table of the elements. Just like Earth's periodic table has a chemical symbol for each element (H for Hydrogen, Li for Lithium, etc.), so does Splurth's. However, their chemical symbols must follow certain rules:
@@ -27,10 +39,3 @@ The symbol will have exactly two letters. Both element name and symbol will cont
 * Given an element name, find the valid symbol for that name that's first in alphabetical order. E.g.Gozerium -> Ei, Slimyrine -> Ie.
 * Given an element name, find the number of distinct valid symbols for that name. E.g. Zuulon -> 11.
 
-
-# Solution Overview
-
-* Main class --> dzone-periodic-table/periodic-table/src/me/tejas/dzone/trigger/Executor.java
-* Service Class --> dzone-periodic-table/periodic-table/src/me/tejas/dzone/service/PeriodTableValidatorService.java
-* Junit test case --> dzone-periodic-table/periodic-table/test/me/tejas/dzone/service/test/PeriodicTableTest.java
- Input the test data in dzone-periodic-table/periodic-table/test/periodic-table-input.properties and execute test class. 
