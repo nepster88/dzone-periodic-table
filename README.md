@@ -26,3 +26,10 @@ The symbol will have exactly two letters. Both element name and symbol will cont
 ### Optional Bonus Challenges
 * Given an element name, find the valid symbol for that name that's first in alphabetical order. E.g.Gozerium -> Ei, Slimyrine -> Ie.
 * Given an element name, find the number of distinct valid symbols for that name. E.g. Zuulon -> 11.
+
+
+# Solution Overview
+
+* Main class --> dzone-periodic-table/periodic-table/src/me/tejas/dzone/trigger/Executor.java
+* Service Class --> dzone-periodic-table/periodic-table/src/me/tejas/dzone/service/PeriodTableValidatorService.java
+* 
