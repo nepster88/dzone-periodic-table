@@ -27,9 +27,9 @@ public class PeriodTableValidatorService {
                     result = true;
                 }
             }
-        }       
+        }               
         
-        return result;
+        return result;                
                 
     }
     
